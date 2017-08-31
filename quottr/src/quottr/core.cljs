@@ -46,7 +46,7 @@
         [:button.btn.btn-primary "Remember my words!"]]]]]))
 
 (rum/defc navbar []
-  [:.container.grid-lg
+  [:.container.grid-md
    [:header.navbar.pt-2
     [:section.navbar-section
      [:h1.logo "Quottr"]]
